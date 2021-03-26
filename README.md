@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+This is Emmett Woo, little programmer from zh-cn.
+
+### Contacts
+
+- My Blog: <https://blog.woohoo.top/>
+- Email: <mailto: emmettwoo@outlook.com>
+
+### Projects
+
+You can find it below 👇
+
 <!--
 **Emmettwoo/emmettwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
