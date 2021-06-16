@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hi there
 
 This is Emmett Woo, little programmer from zh-cn.
 
+### 💻 Git Stats
 
-### Contacts
+[![Emmett Woo's Github Stats](https://github-readme-stats.vercel.app/api?username=emmettwoo&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💬 Contacts Me
 
 - My Blog: https://blog.woohoo.top/
 - Email: Emmettwoo@Outlook.com
 
----
+### ✨ One More Thing
 
-<a href="https://www.buymeacoffee.com/emmettwoo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 72px !important;" ></a>
+<a href="https://www.buymeacoffee.com/emmettwoo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="300px" height="84px" alt="Buy Me A Coffee"></a>
 
 <!--
 **Emmettwoo/emmettwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
