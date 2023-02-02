@@ -8,7 +8,7 @@ This is Emmett Woo, little programmer from zh-cn.
 
 ### 💬 Contacts Me
 
-- My Blog: https://blog.woohoo.top/
+- My Blog: https://blog.initialize.in/
 - Email: Emmettwoo@Outlook.com
 
 ### ✨ One More Thing
