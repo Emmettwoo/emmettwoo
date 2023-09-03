@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-This is Emmett Woo, little programmer from zh-cn.
+This is Emmett Woo.
 
 ### 💻 Git Stats
 
