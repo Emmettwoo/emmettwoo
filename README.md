@@ -9,7 +9,7 @@ This is Emmett Woo.
 ### 💬 Contacts Me
 
 - My Blog: https://blog.initialize.in/
-- Email: Emmettwoo@Outlook.com
+- Email: emmettwoo@proton.me
 
 ### ✨ One More Thing
 
